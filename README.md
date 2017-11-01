@@ -1,6 +1,6 @@
 ## Zainab's Feed Reader  project
 
-## Getting up and running:
+### Getting up and running:
 
 To start up the app:
 
